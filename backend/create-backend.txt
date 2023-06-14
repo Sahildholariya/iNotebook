@@ -1,0 +1,4 @@
+1 : npm init 
+2 : name project name  
+3  :  npm i express   
+4  :  npm i mongoose    
